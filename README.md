@@ -12,3 +12,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 **Dashboard**
 
 ![Alt Text](dbb.jpg)
+
+**Database**
+
+![Alt Text](dd.jpg)
