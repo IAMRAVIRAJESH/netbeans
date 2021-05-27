@@ -4,7 +4,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 **Title of the Project:**
 
-"Basic use JPDB for CRUD operations."
+"Basic use of JPDB for CRUD operations."
 
 **Description:**
 
