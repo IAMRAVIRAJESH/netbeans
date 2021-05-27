@@ -8,7 +8,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 **Description:**
 
-This project is about basics of JsonPowerDB (JPDB) and and it's use for CRUD operations. This project fully functional with database and validation managed properly.
+This project is about basics of JsonPowerDB (JPDB) and and it's use for CRUD operations. This project fully is functional with database and validation managed properly.
 
 **Benefits of JsonPowerDB:**
 * Simplest way to retrieve data in a JSON format.
